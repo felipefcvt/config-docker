@@ -1,4 +1,4 @@
-# Projeto Project-Two
+# Configuração de ambiente Docker
 
 Este é um projeto simples que demonstra como configurar um ambiente de desenvolvimento PHP com Docker, incluindo um servidor Nginx, PHP e um banco de dados MySQL.
 
